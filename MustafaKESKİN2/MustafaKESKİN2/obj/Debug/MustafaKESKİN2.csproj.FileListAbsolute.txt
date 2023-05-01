@@ -1,0 +1,26 @@
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\bin\Debug\MustafaKESKİN2.exe.config
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\bin\Debug\MustafaKESKİN2.exe
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\bin\Debug\MustafaKESKİN2.pdb
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\obj\Debug\MustafaKESKİN2.csproj.AssemblyReference.cache
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\obj\Debug\MustafaKESKİN2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\obj\Debug\MustafaKESKİN2.Laboratory.resources
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\obj\Debug\MustafaKESKİN2.Project.resources
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\obj\Debug\MustafaKESKİN2.Properties.Resources.resources
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\obj\Debug\MustafaKESKİN2.StartWindow.resources
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\obj\Debug\MustafaKESKİN2.csproj.GenerateResource.cache
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\obj\Debug\MustafaKESKİN2.csproj.CoreCompileInputs.cache
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\obj\Debug\MustafaKESKİN2.exe
+C:\Users\mkesk\Desktop\WindowsFormsApp11 — копия\WindowsFormsApp11\obj\Debug\MustafaKESKİN2.pdb
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\obj\Debug\MustafaKESKİN2.csproj.AssemblyReference.cache
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\obj\Debug\MustafaKESKİN2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\obj\Debug\MustafaKESKİN2.Laboratory.resources
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\obj\Debug\MustafaKESKİN2.Project.resources
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\obj\Debug\MustafaKESKİN2.Properties.Resources.resources
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\obj\Debug\MustafaKESKİN2.StartWindow.resources
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\obj\Debug\MustafaKESKİN2.csproj.GenerateResource.cache
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\obj\Debug\MustafaKESKİN2.csproj.CoreCompileInputs.cache
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\obj\Debug\MustafaKESKİN2.exe
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\obj\Debug\MustafaKESKİN2.pdb
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\bin\Debug\MustafaKESKİN2.exe.config
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\bin\Debug\MustafaKESKİN2.exe
+C:\Users\mkesk\Desktop\MustafaKESKİN2\MustafaKESKİN2\bin\Debug\MustafaKESKİN2.pdb
