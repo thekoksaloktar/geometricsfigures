@@ -1,2 +1,2 @@
 # geometricsfigures
-geometric figures drwan with the mouse
+C# geometric figures drwan with the mouse
